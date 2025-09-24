@@ -1,4 +1,4 @@
-# LLM Project to Build and Fine Tune a Large Language Model
+# FastAPI implementation
 
 This project is an example of a simple FastAPI implementation.
 
@@ -55,7 +55,7 @@ Edge Cases: Empty data scenarios, Boundary value testing, Invalid UUID handling,
 First, clone this project repository to your local machine using the following command:
 
 ```bash
-git clone 
+git clone https://github.com/odepin/API
 cd '.\API\FastAPI'
 ```
 
